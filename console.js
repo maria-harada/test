@@ -1,3 +1,3 @@
 console.log("こんにちは");
 
-console.log("おはこんばんちは!");
+console.log("おはこんばんちは！");
